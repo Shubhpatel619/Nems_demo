@@ -32,7 +32,44 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+
+
+
+
+.nav-link.active {
+  font-weight: bold !important;
+  color: #fff !important;
+}
+
+/* Keep the main content above the footer */
+.content-wrapper {
+  min-height: 100vh;
+  position: relative;
+  z-index: 2;
+  /* Content sits on top */
+  background: white;
+  /* Ensure content is opaque */
+  margin-bottom: 0;
+}
+
+/* Sticky Copyright Bar */
+.copyright-bar {
+  position: sticky;
+  bottom: 0;
+  z-index: 3;
+  /* Always on top of everything */
+  width: 100%;
+}
+
+/* Main footer reveals from underneath */
+.footer-main {
+  position: relative;
+  z-index: 1;
+  /* Sits behind content until scrolled to */
 }
