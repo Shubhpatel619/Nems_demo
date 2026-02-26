@@ -30,7 +30,7 @@ export default function NavBar({ title }) {
 
                 {/* Collapsible Menu */}
                 <div className={`collapse navbar-collapse ${isOpen ? 'show' : ''}`}>
-                    <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
+                    <ul className="navbar-nav ms-3 mb-2 mb-lg-0">
 
                         <li className="nav-item">
                             <NavLink
