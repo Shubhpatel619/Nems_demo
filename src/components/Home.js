@@ -1,4 +1,8 @@
 import React from 'react';
+// Import images from your src/assets folder
+import studyImg from '../assets/study.jpg';
+import libraryImg from '../assets/liberary.jpg';
+import sportsImg from '../assets/sports.jpg';
 
 export default function Home() {
     return (
@@ -7,7 +11,12 @@ export default function Home() {
             <div className="bg-primary text-white text-center py-5 shadow-sm"
                 style={{
                     backgroundImage: 'linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://images.unsplash.com")',
-                    backgroundSize: 'cover', backgroundPosition: 'center', height: '400px', display: 'flex', alignItems: 'center', justifyContent: 'center'
+                    backgroundSize: 'cover',
+                    backgroundPosition: 'center',
+                    height: '400px',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center'
                 }}>
                 <div>
                     <h1 className="display-4 fw-bold">Welcome to Navjeevan English Medium School</h1>
@@ -41,27 +50,32 @@ export default function Home() {
                 {/* Features/Highlights Section */}
                 <h3 className="text-center mb-4">Our Core Pillars</h3>
                 <div className="row g-4">
+                    {/* Academic Excellence Card */}
                     <div className="col-md-4">
                         <div className="card h-100 shadow-sm border-0">
-                            <img src="/study.jpg" className="card-img-top" alt="Academics" />
+                            <img src={studyImg} className="card-img-top" alt="Academics" />
                             <div className="card-body">
                                 <h5 className="card-title fw-bold text-primary">Academic Excellence</h5>
                                 <p className="card-text">Our curriculum is designed to foster critical thinking and a love for lifelong learning.</p>
                             </div>
                         </div>
                     </div>
+
+                    {/* Modern Facilities Card */}
                     <div className="col-md-4">
                         <div className="card h-100 shadow-sm border-0">
-                            <img src="/liberary.jpg" className="card-img-top" alt="Library" />
+                            <img src={libraryImg} className="card-img-top" alt="Library" />
                             <div className="card-body">
                                 <h5 className="card-title fw-bold text-success">Modern Facilities</h5>
                                 <p className="card-text">Equipped with smart classrooms, advanced science labs, and a vast resource library.</p>
                             </div>
                         </div>
                     </div>
+
+                    {/* Holistic Growth Card */}
                     <div className="col-md-4">
                         <div className="card h-100 shadow-sm border-0">
-                            <img src="/sports.jpg" className="card-img-top" alt="Sports" />
+                            <img src={sportsImg} className="card-img-top" alt="Sports" />
                             <div className="card-body">
                                 <h5 className="card-title fw-bold text-warning">Holistic Growth</h5>
                                 <p className="card-text">We emphasize physical education, arts, and value-based learning for overall development.</p>
