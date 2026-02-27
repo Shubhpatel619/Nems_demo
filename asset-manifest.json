@@ -1,30 +1,38 @@
 {
   "files": {
     "main.css": "/Nems_demo/static/css/main.c5691300.css",
-    "main.js": "/Nems_demo/static/js/main.eb788e3e.js",
+    "main.js": "/Nems_demo/static/js/main.46e11310.js",
     "static/js/765.5b0dcb65.chunk.js": "/Nems_demo/static/js/765.5b0dcb65.chunk.js",
     "static/js/990.f9f34cd2.chunk.js": "/Nems_demo/static/js/990.f9f34cd2.chunk.js",
-    "static/js/469.4c7d964e.chunk.js": "/Nems_demo/static/js/469.4c7d964e.chunk.js",
-    "static/js/124.bed9cbf4.chunk.js": "/Nems_demo/static/js/124.bed9cbf4.chunk.js",
+    "static/js/35.0ebe82d7.chunk.js": "/Nems_demo/static/js/35.0ebe82d7.chunk.js",
+    "static/js/638.f422b36a.chunk.js": "/Nems_demo/static/js/638.f422b36a.chunk.js",
     "static/js/281.7fc57713.chunk.js": "/Nems_demo/static/js/281.7fc57713.chunk.js",
+    "static/js/549.59d32a0c.chunk.js": "/Nems_demo/static/js/549.59d32a0c.chunk.js",
     "static/js/453.fd2f0c4a.chunk.js": "/Nems_demo/static/js/453.fd2f0c4a.chunk.js",
     "static/js/859.6fcae6b1.chunk.js": "/Nems_demo/static/js/859.6fcae6b1.chunk.js",
-    "static/media/liberary.jpg": "/Nems_demo/static/media/liberary.65a002ba7a164af6c71c.jpg",
+    "static/media/smartClass.jpg": "/Nems_demo/static/media/smartClass.0a36b2a8f4978e5f8692.jpg",
+    "static/media/certificate.jpg": "/Nems_demo/static/media/certificate.3b177e1bb909e75d3c3e.jpg",
+    "static/media/trophy.jpg": "/Nems_demo/static/media/trophy.1ed7eb2f4902847f862d.jpg",
+    "static/media/studentsInClass.jpg": "/Nems_demo/static/media/studentsInClass.6527c3dc38fc483edba9.jpg",
     "static/media/sports.jpg": "/Nems_demo/static/media/sports.bb61c419c6f122921ac0.jpg",
+    "static/media/faculty2.jpg": "/Nems_demo/static/media/faculty2.f07ee6054a141a656362.jpg",
+    "static/media/qualityEducation.jpg": "/Nems_demo/static/media/qualityEducation.3740ef15de8871e3aa6a.jpg",
     "static/media/study.jpg": "/Nems_demo/static/media/study.91d2ce40382bc0e65745.jpg",
+    "static/media/faculty1.jpg": "/Nems_demo/static/media/faculty1.11150eb898b2099d59a0.jpg",
     "index.html": "/Nems_demo/index.html",
     "main.c5691300.css.map": "/Nems_demo/static/css/main.c5691300.css.map",
-    "main.eb788e3e.js.map": "/Nems_demo/static/js/main.eb788e3e.js.map",
+    "main.46e11310.js.map": "/Nems_demo/static/js/main.46e11310.js.map",
     "765.5b0dcb65.chunk.js.map": "/Nems_demo/static/js/765.5b0dcb65.chunk.js.map",
     "990.f9f34cd2.chunk.js.map": "/Nems_demo/static/js/990.f9f34cd2.chunk.js.map",
-    "469.4c7d964e.chunk.js.map": "/Nems_demo/static/js/469.4c7d964e.chunk.js.map",
-    "124.bed9cbf4.chunk.js.map": "/Nems_demo/static/js/124.bed9cbf4.chunk.js.map",
+    "35.0ebe82d7.chunk.js.map": "/Nems_demo/static/js/35.0ebe82d7.chunk.js.map",
+    "638.f422b36a.chunk.js.map": "/Nems_demo/static/js/638.f422b36a.chunk.js.map",
     "281.7fc57713.chunk.js.map": "/Nems_demo/static/js/281.7fc57713.chunk.js.map",
+    "549.59d32a0c.chunk.js.map": "/Nems_demo/static/js/549.59d32a0c.chunk.js.map",
     "453.fd2f0c4a.chunk.js.map": "/Nems_demo/static/js/453.fd2f0c4a.chunk.js.map",
     "859.6fcae6b1.chunk.js.map": "/Nems_demo/static/js/859.6fcae6b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5691300.css",
-    "static/js/main.eb788e3e.js"
+    "static/js/main.46e11310.js"
   ]
 }
