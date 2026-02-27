@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import nems from '../assets/nems.jpeg';
 
 export default function About() {
     return (
@@ -25,8 +26,14 @@ export default function About() {
                         </p>
                     </div>
                     <div className="col-md-6">
-                        <img src="https://images.unsplash.com" alt="School" className="img-fluid rounded shadow" />
+                        <img
+                            src={nems}
+                            alt="School Building"
+                            className="img-fluid rounded shadow"
+                            style={{ width: '100%', height: 'auto', display: 'block' }}
+                        />
                     </div>
+
                 </div>
 
                 {/* Updated Values Section with Links */}
