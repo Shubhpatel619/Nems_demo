@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/Nems_demo/static/css/main.c5691300.css",
-    "main.js": "/Nems_demo/static/js/main.6c7ecd73.js",
-    "static/js/765.5b0dcb65.chunk.js": "/Nems_demo/static/js/765.5b0dcb65.chunk.js",
+    "main.js": "/Nems_demo/static/js/main.a9183aa2.js",
+    "static/js/765.6356a58b.chunk.js": "/Nems_demo/static/js/765.6356a58b.chunk.js",
     "static/js/990.f9f34cd2.chunk.js": "/Nems_demo/static/js/990.f9f34cd2.chunk.js",
     "static/js/35.0ebe82d7.chunk.js": "/Nems_demo/static/js/35.0ebe82d7.chunk.js",
     "static/js/406.d91abba5.chunk.js": "/Nems_demo/static/js/406.d91abba5.chunk.js",
     "static/js/281.7fc57713.chunk.js": "/Nems_demo/static/js/281.7fc57713.chunk.js",
-    "static/js/549.59d32a0c.chunk.js": "/Nems_demo/static/js/549.59d32a0c.chunk.js",
+    "static/js/900.b5be49f1.chunk.js": "/Nems_demo/static/js/900.b5be49f1.chunk.js",
+    "static/js/134.828af047.chunk.js": "/Nems_demo/static/js/134.828af047.chunk.js",
     "static/js/453.fd2f0c4a.chunk.js": "/Nems_demo/static/js/453.fd2f0c4a.chunk.js",
     "static/js/859.6fcae6b1.chunk.js": "/Nems_demo/static/js/859.6fcae6b1.chunk.js",
     "static/media/smartClass.jpg": "/Nems_demo/static/media/smartClass.0a36b2a8f4978e5f8692.jpg",
+    "static/media/liberary.jpg": "/Nems_demo/static/media/liberary.65a002ba7a164af6c71c.jpg",
     "static/media/certificate.jpg": "/Nems_demo/static/media/certificate.3b177e1bb909e75d3c3e.jpg",
     "static/media/trophy.jpg": "/Nems_demo/static/media/trophy.1ed7eb2f4902847f862d.jpg",
     "static/media/studentsInClass.jpg": "/Nems_demo/static/media/studentsInClass.6527c3dc38fc483edba9.jpg",
@@ -21,18 +23,19 @@
     "static/media/faculty1.jpg": "/Nems_demo/static/media/faculty1.11150eb898b2099d59a0.jpg",
     "index.html": "/Nems_demo/index.html",
     "main.c5691300.css.map": "/Nems_demo/static/css/main.c5691300.css.map",
-    "main.6c7ecd73.js.map": "/Nems_demo/static/js/main.6c7ecd73.js.map",
-    "765.5b0dcb65.chunk.js.map": "/Nems_demo/static/js/765.5b0dcb65.chunk.js.map",
+    "main.a9183aa2.js.map": "/Nems_demo/static/js/main.a9183aa2.js.map",
+    "765.6356a58b.chunk.js.map": "/Nems_demo/static/js/765.6356a58b.chunk.js.map",
     "990.f9f34cd2.chunk.js.map": "/Nems_demo/static/js/990.f9f34cd2.chunk.js.map",
     "35.0ebe82d7.chunk.js.map": "/Nems_demo/static/js/35.0ebe82d7.chunk.js.map",
     "406.d91abba5.chunk.js.map": "/Nems_demo/static/js/406.d91abba5.chunk.js.map",
     "281.7fc57713.chunk.js.map": "/Nems_demo/static/js/281.7fc57713.chunk.js.map",
-    "549.59d32a0c.chunk.js.map": "/Nems_demo/static/js/549.59d32a0c.chunk.js.map",
+    "900.b5be49f1.chunk.js.map": "/Nems_demo/static/js/900.b5be49f1.chunk.js.map",
+    "134.828af047.chunk.js.map": "/Nems_demo/static/js/134.828af047.chunk.js.map",
     "453.fd2f0c4a.chunk.js.map": "/Nems_demo/static/js/453.fd2f0c4a.chunk.js.map",
     "859.6fcae6b1.chunk.js.map": "/Nems_demo/static/js/859.6fcae6b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5691300.css",
-    "static/js/main.6c7ecd73.js"
+    "static/js/main.a9183aa2.js"
   ]
 }
