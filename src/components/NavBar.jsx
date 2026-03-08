@@ -60,6 +60,20 @@ export default function NavBar({ title }) {
                             </NavLink>
                         </li>
 
+                        <li className="nav-item">
+                            <NavLink
+                                to="/gallery"
+                                className="nav-link"
+                                style={({ isActive }) => ({
+                                    fontWeight: isActive ? 'bold' : 'normal',
+                                    borderBottom: isActive ? '2px solid #0d6efd' : 'none',
+                                    color: isActive ? '#fff' : 'rgba(255,255,255,0.55)',
+                                })}
+                            >
+                                Gallery
+                            </NavLink>
+                        </li>
+
                     </ul>
                 </div>
             </div>

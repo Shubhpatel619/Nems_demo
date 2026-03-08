@@ -1,6 +1,6 @@
 import './App.css';
 import React, { Suspense, lazy } from 'react';
-import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter  as Router, Routes, Route } from 'react-router-dom';
 import SkeletonLoader from './components/SkeletonLoader';
 
 // Lazy loaded components
@@ -12,6 +12,7 @@ const PageWrapper = lazy(() => import('./components/PageWrapper'));
 
 // UPDATED: Now importing from components folder
 const PillarDetail = lazy(() => import('./components/PillarDetail'));
+const Gallery = lazy(() => import('./pages/Gallery'));
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
           <Routes>
             <Route path="/" element={<PageWrapper><Home /></PageWrapper>} />
             <Route path="/about" element={<PageWrapper><About /></PageWrapper>} />
+            <Route path="/gallery" element={<PageWrapper><Gallery /></PageWrapper>} />
             <Route path="/pillar/:type" element={<PageWrapper><PillarDetail /></PageWrapper>} />
           </Routes>
         </Suspense>
